@@ -1,4 +1,4 @@
-# 🧮 Simple Calculator
+# 🧮 Calculator
 
 This is a **web calculator project** built with **HTML, CSS, and pure JavaScript**, without using any external frameworks.  
 The application allows performing basic math operations such as **addition, subtraction, multiplication, and division**, with a styled and responsive interface.
